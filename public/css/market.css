@@ -1,0 +1,39 @@
+@media (min-width: 1200px) {
+
+
+}
+
+.dashboard-boxes .col-lg-2 {
+    -ms-flex: 0 0 20%;
+    flex: 0 0 20%;
+    max-width: 20%;
+}
+
+
+.img-list {
+    width: 100px;
+}
+
+.img-list img {
+    width: 100% !important;
+    max-height: 100px;
+    object-fit: cover;
+}
+
+
+.ui-widget.ui-widget-content {
+    z-index: 999;
+}
+
+.products-list .mps-sku,
+.products-list .mp-sku {
+    font-size: 9px;
+}
+
+.w-9rem {
+    width: 9rem;
+}
+
+.w-10rem {
+    width: 10rem;
+}
